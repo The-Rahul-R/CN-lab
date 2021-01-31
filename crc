@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Main
 {
     
-	public static int t[]= new int[128], cs[]=new int[128], a, e, c, g[]={1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1};
+	public static int t[]= new int[128], cs[]=new int[128], a, e, c, g[]={1,0,1,1};
 	static final int n=g.length;
 	static void xor()
 	{
